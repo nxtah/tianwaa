@@ -1,0 +1,256 @@
+{
+  "hero": {
+    "headline": "Kuasai Bahasa Mandarin, Buka Peluang Tanpa Batas",
+    "subheadline": "Kursus privat Mandarin online & offline dengan Native Teacher. 200.000+ murid di 30+ negara.",
+    "cta_primary": {
+      "label": "Mulai Belajar",
+      "href": "/daftar"
+    },
+    "cta_secondary": {
+      "label": "Lihat Program",
+      "href": "/program"
+    },
+    "stats": [
+      {
+        "value": "200.000+",
+        "label": "Murid Terdaftar"
+      },
+      {
+        "value": "30+",
+        "label": "Negara"
+      },
+      {
+        "value": "98%",
+        "label": "Kepuasan"
+      },
+      {
+        "value": "10+",
+        "label": "Tahun Pengalaman"
+      }
+    ]
+  },
+  "programs": [
+    {
+      "id": 1,
+      "title": "Mandarin untuk Anak (4-12 Tahun)",
+      "description": "Program khusus anak-anak dengan metode interaktif dan menyenangkan menggunakan Dual Teacher System.",
+      "tag": "Pemula",
+      "duration": "3-6 bulan",
+      "icon": "🎓",
+      "highlights": [
+        "Metode pembelajaran interaktif",
+        "Game dan aktivitas seru",
+        "Fokus pada speaking & listening",
+        "Native teacher + Indonesian mentor"
+      ],
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Mandarin untuk Remaja & Dewasa",
+      "description": "Kursus mandarin komprehensif untuk remaja hingga profesional dari level pemula hingga advanced.",
+      "tag": "Semua Level",
+      "duration": "3-12 bulan",
+      "icon": "📚",
+      "highlights": [
+        "Kurikulum terstruktur & komprehensif",
+        "Fokus pada conversational skills",
+        "Fleksibel sesuai jadwal kamu",
+        "Sertifikat HSK tersedia"
+      ],
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Mandarin Bisnis & Profesional",
+      "description": "Program khusus untuk profesional yang ingin menguasai Mandarin bisnis dan networking.",
+      "tag": "Lanjutan",
+      "duration": "4-6 bulan",
+      "icon": "💼",
+      "highlights": [
+        "Business communication mastery",
+        "Etiquette & cultural insights",
+        "Networking dalam Mandarin",
+        "One-on-one coaching"
+      ],
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "Persiapan HSK & Ujian",
+      "description": "Program intensif untuk mempersiapkan ujian HSK (Hanyu Shuiping Kaoshi) internasional.",
+      "tag": "Ujian",
+      "duration": "2-4 bulan",
+      "icon": "🏆",
+      "highlights": [
+        "Persiapan HSK 1-6",
+        "Simulasi ujian & tips",
+        "Native teacher guidance",
+        "Tingkat keberhasilan 95%+"
+      ],
+      "featured": false
+    }
+  ],
+  "why_us": [
+    {
+      "title": "Dual Teacher System (DTS)",
+      "description": "Kombinasi Native Chinese Teacher dan Indonesian Mentor untuk pembelajaran optimal",
+      "icon": "🎓"
+    },
+    {
+      "title": "Online & Offline",
+      "description": "Fleksibel belajar dari mana saja atau bertemu langsung sesuai kebutuhan kamu",
+      "icon": "🌐"
+    },
+    {
+      "title": "Semua Usia, Semua Level",
+      "description": "Dari anak-anak hingga profesional, dari pemula hingga advanced level tersedia",
+      "icon": "👶"
+    },
+    {
+      "title": "Jadwal Fleksibel",
+      "description": "Pilih jadwal sesuai dengan waktu kamu, tidak ada batasan waktu belajar",
+      "icon": "📅"
+    },
+    {
+      "title": "Platform Modern",
+      "description": "Akses materi pembelajaran via aplikasi & web dengan teknologi terkini",
+      "icon": "📱"
+    },
+    {
+      "title": "Bersertifikat HSK",
+      "description": "Dapatkan sertifikat HSK yang diakui internasional setelah selesai program",
+      "icon": "🏆"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Budi Santoso",
+      "program": "Mandarin untuk Remaja & Dewasa",
+      "rating": 5,
+      "quote": "Guru-gurunya sangat ramah dan metodenya efektif. Dalam 3 bulan saya sudah bisa conversation dasar!",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=1"
+    },
+    {
+      "id": 2,
+      "name": "Siti Nurhaliza",
+      "program": "Mandarin Bisnis & Profesional",
+      "rating": 5,
+      "quote": "Program bisnis sangat membantu karir saya. Sekarang saya bisa negotiation dalam Mandarin!",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=2"
+    },
+    {
+      "id": 3,
+      "name": "Ahmad Wijaya",
+      "program": "Persiapan HSK",
+      "rating": 5,
+      "quote": "Berkat bimbingan Tianwaa, saya lulus HSK level 4 dengan skor tinggi. Terima kasih!",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=3"
+    },
+    {
+      "id": 4,
+      "name": "Maria Lestari",
+      "program": "Mandarin untuk Anak",
+      "rating": 5,
+      "quote": "Anak saya semangat belajar setiap hari. Guru-gurunya sangat sabar dan kreatif!",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=4"
+    },
+    {
+      "id": 5,
+      "name": "Reza Rahman",
+      "program": "Mandarin untuk Remaja & Dewasa",
+      "rating": 5,
+      "quote": "Sistemnya sangat rapi dan terstruktur. Saya merasa berkembang pesat dalam belajar.",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=5"
+    },
+    {
+      "id": 6,
+      "name": "Dewi Kusuma",
+      "program": "Mandarin Bisnis & Profesional",
+      "rating": 5,
+      "quote": "Investasi terbaik untuk karir saya. Mentor yang suportif dan material berkualitas tinggi!",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=6"
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "title": "Cara Efektif Belajar Mandarin untuk Pemula",
+      "slug": "cara-efektif-belajar-mandarin-pemula",
+      "category": "Tips & Trik",
+      "author": "Tim Tianwaa",
+      "date": "2025-04-20",
+      "excerpt": "Pelajari strategi dan tips terbaik untuk memulai perjalanan belajar Mandarin dengan cara yang efektif dan menyenangkan.",
+      "coverImage": "https://images.unsplash.com/photo-1516534775068-bb8f4c4b7b5d?w=800&h=400&fit=crop",
+      "content": "<h2>Pendahuluan</h2><p>Belajar Mandarin bisa terasa menakutkan di awal, tapi dengan pendekatan yang tepat, siapa pun bisa sukses. Dalam artikel ini, kami bagikan tips praktis untuk memulai perjalanan Mandarin kamu.</p><h2>1. Mulai dengan Pinyin</h2><p>Jangan langsung terjun ke karakter. Pinyin adalah sistem romanisasi yang akan memudahkan kamu memahami pronunciation dan intonation Mandarin.</p><h2>2. Fokus pada Tone</h2><p>Mandarin memiliki 4 tone utama plus tone netral. Menguasai tone akan sangat membantu dalam komunikasi yang efektif.</p><h2>3. Praktik Speaking Setiap Hari</h2><p>Jangan malu untuk berbicara. Konsistensi adalah kunci sukses belajar bahasa.</p>"
+    },
+    {
+      "id": 2,
+      "title": "Persiapan HSK Level 3: Panduan Lengkap",
+      "slug": "persiapan-hsk-level-3-panduan-lengkap",
+      "category": "Ujian HSK",
+      "author": "Tim Tianwaa",
+      "date": "2025-04-15",
+      "excerpt": "Panduan lengkap untuk mempersiapkan ujian HSK Level 3 dengan strategi belajar yang telah terbukti efektif.",
+      "coverImage": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=400&fit=crop",
+      "content": "<h2>Tentang HSK Level 3</h2><p>HSK Level 3 menguji kemampuan Mandarin dasar dengan vocabulary sekitar 600 kata.</p><h2>Struktur Ujian</h2><p>Ujian terdiri dari listening, reading, dan writing dengan durasi total 90 menit.</p>"
+    },
+    {
+      "id": 3,
+      "title": "Budaya Bisnis di China yang Harus Kamu Tahu",
+      "slug": "budaya-bisnis-china",
+      "category": "Budaya & Tips",
+      "author": "Tim Tianwaa",
+      "date": "2025-04-10",
+      "excerpt": "Pelajari etiquette dan budaya bisnis di China yang penting untuk profesional yang berkomunikasi dengan klien atau partner bisnis Mandarin.",
+      "coverImage": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=400&fit=crop",
+      "content": "<h2>Pentingnya Memahami Budaya Bisnis</h2><p>Kesuksesan bisnis internasional dimulai dengan memahami budaya dan nilai-nilai lokal.</p>"
+    }
+  ],
+  "gallery": [
+    {
+      "id": 1,
+      "url": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=400&h=300&fit=crop",
+      "alt": "Students learning in class"
+    },
+    {
+      "id": 2,
+      "url": "https://images.unsplash.com/photo-1516534775068-bb8f4c4b7b5d?w=400&h=300&fit=crop",
+      "alt": "Online learning session"
+    },
+    {
+      "id": 3,
+      "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=400&h=300&fit=crop",
+      "alt": "Study materials"
+    },
+    {
+      "id": 4,
+      "url": "https://images.unsplash.com/photo-1503676260728-1c00da068326?w=400&h=300&fit=crop",
+      "alt": "Classroom activity"
+    },
+    {
+      "id": 5,
+      "url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=300&fit=crop",
+      "alt": "Graduation ceremony"
+    },
+    {
+      "id": 6,
+      "url": "https://images.unsplash.com/photo-1523240795612-9a054269359d?w=400&h=300&fit=crop",
+      "alt": "Team celebration"
+    }
+  ],
+  "settings": {
+    "siteTitle": "Tianwaa",
+    "tagline": "Belajar Mandarin jadi lebih mudah & seru!",
+    "logoUrl": "https://api.dicebear.com/7.x/identicon/svg?seed=tianwaa",
+    "whatsappNumber": "+62812345678",
+    "email": "hello@tianwaa.com",
+    "instagram": "@tianwaaindonesia",
+    "tiktok": "@tianwaa",
+    "youtube": "@TianwaaOfficial",
+    "maintenanceMode": false,
+    "metaTitle": "Tianwaa - Kursus Mandarin Online & Offline",
+    "metaDescription": "Kuasai Bahasa Mandarin dengan Native Teacher. 200.000+ murid di 30+ negara. Kursus privat online & offline dengan Dual Teacher System."
+  }
+}

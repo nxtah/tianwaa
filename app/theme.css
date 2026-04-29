@@ -1,0 +1,34 @@
+@theme {
+  --color-primary: #6DBF8A;
+  --color-primary-dark: #4DA870;
+  --color-primary-light: #B8E8C8;
+  --color-primary-muted: rgba(109, 191, 138, 0.12);
+
+  --color-bg: #F9FAF7;
+  --color-bg-dark: #0F1510;
+  --color-surface: #FFFFFF;
+  --color-surface-alt: #F2F5F0;
+
+  --color-text: #151A12;
+  --color-text-muted: #6B7468;
+  --color-text-light: #A8B0A4;
+
+  --color-accent: #E8B84B;
+  --color-danger: #E55A5A;
+
+  --font-display: 'Playfair Display', serif;
+  --font-sans: 'DM Sans', sans-serif;
+  --font-serif: 'Noto Serif SC', serif;
+
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+  --shadow-2xl: 0 25px 50px -12px rgba(0, 0, 0, 0.15);
+  --shadow-glow: 0 0 30px rgba(109, 191, 138, 0.4);
+
+  --animate-fadeIn: fadeIn 0.6s ease-in-out;
+  --animate-slideUp: slideUp 0.6s ease-out;
+  --animate-float: float 3s ease-in-out infinite;
+  --animate-glow: glow 2s ease-in-out infinite;
+}

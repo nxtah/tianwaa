@@ -1,0 +1,56 @@
+@reference "../../app/globals.css";
+
+.toast {
+  @apply fixed top-4 right-4 flex items-center gap-3 px-6 py-4 rounded-lg shadow-lg border z-50;
+  animation: slideUp 0.3s ease-out;
+}
+
+.toastSuccess {
+  @apply bg-primary text-white border-primary;
+}
+
+.toastError {
+  @apply bg-danger text-white border-danger;
+}
+
+.icon {
+  @apply flex-shrink-0;
+}
+
+.message {
+  @apply text-sm font-medium flex-grow;
+}
+
+.closeButton {
+  @apply transition-opacity cursor-pointer;
+}
+
+.closeButton:hover {
+  opacity: 0.8;
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  to {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+}
+
+.toastExit {
+  animation: slideDown 0.3s ease-out;
+}
