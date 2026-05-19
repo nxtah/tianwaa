@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { DM_Sans, Syne, Cormorant_Garamond } from "next/font/google";
+import GoogleTagManager from "@/components/GoogleTagManager";
 import "./globals.css";
 
 const dmSans = DM_Sans({
@@ -56,6 +57,7 @@ export default function RootLayout({
       suppressHydrationWarning
     >
       <body className="font-sans bg-bg text-text min-h-full flex flex-col antialiased">
+        <GoogleTagManager />
         {children}
       </body>
     </html>
